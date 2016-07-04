@@ -1,1 +1,1 @@
-# VPN
+Please read vpn file
